@@ -2,7 +2,7 @@
 
 ---
 
-## Add Some Slide Candy
+## Prima slide
 
 ![](assets/img/presentation.png)
 
@@ -10,7 +10,7 @@
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-## Customize Slide Content Layout
+## Seconda slide
 @snapend
 
 @snap[east span-50]
